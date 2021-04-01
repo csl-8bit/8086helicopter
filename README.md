@@ -29,6 +29,25 @@ You may try Emu8086, NASM or TASM, etc. It is not tested and may not work.
 
 # Documentation
 A more detailed game design documentation can be found in the documentation.pdf file.
+<details><summary>Code Design</summary>
+  
+![image](https://user-images.githubusercontent.com/65856165/113333830-86eb4180-9355-11eb-97a5-05c85ea6a8e3.png)
+  
+![image](https://user-images.githubusercontent.com/65856165/113333904-9cf90200-9355-11eb-8134-f0f2339cbfe9.png)
+
+![image](https://user-images.githubusercontent.com/65856165/113333922-a3877980-9355-11eb-9747-9b974ab3e2b7.png)
+
+![image](https://user-images.githubusercontent.com/65856165/113333941-a7b39700-9355-11eb-87d1-2660de6c2b96.png)
+
+![image](https://user-images.githubusercontent.com/65856165/113333960-abdfb480-9355-11eb-9d5c-1182bc213182.png)
+
+![image](https://user-images.githubusercontent.com/65856165/113333984-b0a46880-9355-11eb-8bdc-b998da6185f9.png)
+
+![image](https://user-images.githubusercontent.com/65856165/113333996-b601b300-9355-11eb-9318-fa63c81ca626.png)
+
+![image](https://user-images.githubusercontent.com/65856165/113334010-bbf79400-9355-11eb-8fe4-a998a8e32969.png)
+</details>
+
 
 # Contribute
 * Fork the project.
