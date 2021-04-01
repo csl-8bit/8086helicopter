@@ -25,15 +25,18 @@ masm /a game.asm;
 link game.obj;
 game
 ```
+You may try Emu8086, NASM or TASM, etc. It is not tested and may not work.
 
 # Documentation
 A more detailed game design documentation can be found in the documentation.pdf file.
 
+# Contribute
+* Fork the project.
+* Make feature addition or bug fix.
+* Send me a pull request.
+
 # Source
 A great book about assembly language programming -> IBM PC Assembly Language and Programming Book by Peter Abel
-
-
-You may try Emu8086, NASM or TASM, etc. It is not tested and may not work.
 
 License
 -------
