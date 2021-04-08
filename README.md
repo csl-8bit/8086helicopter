@@ -52,6 +52,7 @@ A more detailed game design documentation can be found in the documentation.pdf 
 # Contribute
 * Fork the project.
 * Make feature addition or bug fix.
+* Report Issues
 * Send me a pull request.
 
 # Source
